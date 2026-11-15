@@ -84,7 +84,8 @@ This project was created as part of the Bounce Back Game Jam, with the goal of t
 **Debartha Saha**
 
 - GitHub: [@Debartha-Saha-coder](https://github.com/Debartha-Saha-coder)
-
+**Debraj Pal**
+- Github: [@Debraj-Pal](https://github.com/Debraj-Pal)
 ---
 
 <p align="center">
